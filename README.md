@@ -2,7 +2,7 @@
 - 👀 I’m interested in in ML
 - 🌱 I’m currently learning CS as a subject in my degree.
 - 💞️ @DeegayuA @Twitter
-- 📫 Deeghayu Suwahas Adhikari @FB
+- 📫 [Deeghayu Adhikari @Linkedin](https://www.linkedin.com/in/deeghayu/)
 
 <!---
 DeegayuA/DeegayuA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
