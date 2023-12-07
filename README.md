@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeegayuA
-- 👀 I’m interested in in ML
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning CS as a subject in my degree.
 - 💞️ [DeegayuA @Twitter](https://twitter.com/DeegayuA) 
 - 📫 [Deeghayu Adhikari @Linkedin](https://www.linkedin.com/in/deeghayu/)
