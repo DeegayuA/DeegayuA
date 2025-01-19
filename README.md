@@ -1,7 +1,7 @@
 # Deeghayu Suwahas Adhikari  
 
 **PostGrad Student | Teaching Assistant in Electronixs | Voluntary Research Assistant @ Edic, UOK**  
-[🌐 Website](https://deeghayu.netlify.app) | [📧 Email](mailto:Deeghayuadhikari01@gmail.com) | [📂 GitHub](https://github.com/DeegayuA) | [🔗 LinkedIn](https://www.linkedin.com/in/deeghayu/)  
+[🌐 Website](https://deeghayu.netlify.app) | [📧 Email](mailto:Deeghayuadhikari01@gmail.com) | [📂 GitHub](https://github.com/DeegayuA) | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Deeghayuadhikari/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeghayu/)  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/deeghayu) 
 
 ---
 
@@ -71,4 +71,4 @@ Check out the [detailed publications here](https://github.com/DeegayuA).
 ## 📈 Goals  
 
 - Expand expertise in **autonomous systems** and **computer vision**.  
-- Develop accessible solutions for diverse societal challenges.  
+- Develop accessible solutions for diverse societal challenges.
