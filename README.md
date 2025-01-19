@@ -2,9 +2,9 @@
 
 **PostGrad Student | Teaching Assistant in Electronixs | Voluntary Research Assistant @ Edic, UOK**  
 [🌐 Website](https://deeghayu.netlify.app) | [📧 Email](mailto:Deeghayuadhikari01@gmail.com) | [📂 GitHub](https://github.com/DeegayuA) |
+
+## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Deeghayuadhikari/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeghayu/) 
-
-
 ---
 
 ## 👋 About Me
@@ -12,8 +12,8 @@
 A recent graduate and teaching assistant with a strong foundation in **IoT**, **embedded systems**, and **software engineering**. I am passionate about leveraging **machine learning** and **computer vision** to develop autonomous systems and optimize real-time communication.  
 
 Currently pursuing a **Master’s in Information Technology**, I have hands-on experience managing projects, optimizing algorithms, and creating resource-efficient solutions.  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/deeghayu) 
-
+  ## 💰You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/deeghayu) 
 ---
 
 ## 🛠 Technical Skills  
@@ -75,3 +75,4 @@ Check out the [detailed publications here](https://github.com/DeegayuA).
 
 - Expand expertise in **autonomous systems** and **computer vision**.  
 - Develop accessible solutions for diverse societal challenges.
+  
