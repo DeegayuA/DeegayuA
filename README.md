@@ -13,7 +13,7 @@ A recent graduate and teaching assistant with a strong foundation in **IoT**, **
 
 Currently pursuing a **Master’s in Information Technology**, I have hands-on experience managing projects, optimizing algorithms, and creating resource-efficient solutions.  
   ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/deeghayu) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/deeghayu) 
 ---
 
 ## 🛠 Technical Skills  
