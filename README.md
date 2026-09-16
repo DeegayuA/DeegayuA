@@ -2,12 +2,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&height=48&lines=R%26D+Engineer+%40+Alta+Vision+PLC;Full-stack+%2B+AI%2FML+%2B+Embedded+IoT;Visiting+Lecturer+%7C+MSc+Data+Science+%26+AI;From+silicon+to+interface">
-  <img alt="R&D Engineer @ Alta Vision PLC · Full-stack + AI/ML + Embedded IoT · Visiting Lecturer" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=0969DA&center=true&vCenter=true&width=600&height=48&lines=R%26D+Engineer+%40+Alta+Vision+PLC;Full-stack+%2B+AI%2FML+%2B+Embedded+IoT;Visiting+Lecturer+%7C+MSc+Data+Science+%26+AI;From+silicon+to+interface">
+  <img alt="R&amp;D Engineer @ Alta Vision PLC · Full-stack + AI/ML + Embedded IoT · Visiting Lecturer" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=0969DA&center=true&vCenter=true&width=600&height=48&lines=R%26D+Engineer+%40+Alta+Vision+PLC;Full-stack+%2B+AI%2FML+%2B+Embedded+IoT;Visiting+Lecturer+%7C+MSc+Data+Science+%26+AI;From+silicon+to+interface">
 </picture>
 
 # Deeghayu Suwahas Adhikari
 
-### දීඝායු සුවහස් අධිකාරි
+**දීඝායු සුවහස් අධිකාරි**
 
 Software + electronic engineer from Sri Lanka. I build AI-driven platforms, embedded IoT systems and production web products end to end.
 
@@ -26,10 +26,7 @@ Reading for a **Master of Data Science & AI** at the University of Moratuwa and 
 ## Now
 
 - 🔭 **Building** [LogPup](https://github.com/DeegayuA/LogPup) (engineering-ops HQ with bilingual AI meeting intelligence), [PPE Guard](https://github.com/DeegayuA/PPE-demo) (on-device safety-gear compliance with YOLO26) and [CV-Count](https://github.com/DeegayuA/CV-Count) (YOLO + ByteTrack people counter)
-- 🧠 **Researching** uncertainty-aware deep learning for non-invasive anaemia screening ([anemia-ai](https://github.com/DeegayuA/anemia-ai), MSc UoM)
-- 🎓 **Teaching** web, mobile and AI modules at GWUIM
 - 💬 **Ask me about** Next.js App Router, Ultralytics YOLO, ESP32 firmware, OPC UA and SCADA integrations
-- 📫 **Reach me** at [deeghayuadhikari01@gmail.com](mailto:deeghayuadhikari01@gmail.com) or via [deeghayu.netlify.app](https://deeghayu.netlify.app)
 
 ## Tech stack
 
@@ -53,18 +50,18 @@ Reading for a **Master of Data Science & AI** at the University of Moratuwa and 
 
 ## Featured work
 
-| Project | What it is | Stack | Links |
-| --- | --- | --- | --- |
-| **LogPup** | Engineering-ops HQ: team capacity radar with burnout thresholds, kanban sprint boards, app portfolio, and AI meeting intelligence with English + Sinhala transcription. Role-gated Server Actions, encrypted per-user keys, ⌘K command center. | Next.js 16 · React 19 · Drizzle · Neon · Auth.js · Gemini | [Live](https://log-pup.vercel.app)<br>[Code](https://github.com/DeegayuA/LogPup) |
-| **Solar SCADA & Mini-Grid Platform** | Alta Vision's commercial SCADA, deployed across multiple utility-scale solar farms and mini-grids: real-time inverter telemetry, weather-station IoT, AI-assisted commissioning, offline-first at the grid edge. | Next.js · TypeScript · OPC UA · GoodWe SEC3000 | [Demo](https://av-scada-demo.netlify.app/) |
-| **PPE Guard** | Per-person safety-gear verdicts from a photo, video or live camera. Runs fully on-device with YOLO26, seven gear types, temporal smoothing, SQLite history. Web app + CLI + HTTP API. | Python · Ultralytics · SQLite | [Code](https://github.com/DeegayuA/PPE-demo) |
-| **CV-Count** | Interactive people counter with YOLO + ByteTrack. Draw lines and zones on a preview, switch YOLOv11/YOLO26 on the fly, auto-detects CUDA and Apple Silicon. | Python · YOLO · ByteTrack | [Code](https://github.com/DeegayuA/CV-Count) |
-| **LifeSight** | AI vision assistant for visually and hearing-impaired users: OCR, voice-first interaction, WCAG 2.2 compliant, browser-first. | React · Next.js · Cloud Vision · Web Speech API | [Live](https://lifesight.vercel.app/web)<br>[Code](https://github.com/DeegayuA/lifesight2) |
-| **NN-Auto-Car** | Neuroevolutionary driving simulator from first principles: hand-written MLP, genetic algorithm, kinematics and ray-cast sensors on real OpenStreetMap roads. No ML framework, no game engine. MSc capstone. | JavaScript · OpenStreetMap | [Code](https://github.com/DeegayuA/NN-Auto-Car_simulator) |
-| **AmpereArc Production Floor** | Factory management for BESS battery manufacturing: workflow automation, QC gates, landed-cost procurement, traceability. | Next.js · TypeScript · Tailwind | [Live](https://production.amperearc.com/) |
-| **GreenWing** | Quadcopter-based intelligent irrigation: drone imaging, ML, weather inputs and ESP32 valve firmware. Undergraduate research project. | IoT · ML · Image processing · ESP32 | [Code](https://github.com/DeegayuA/GreenWing) |
+| Project | What it is | Links |
+| --- | --- | --- |
+| **LogPup** | Engineering-ops HQ: team capacity radar with burnout thresholds, kanban sprint boards, app portfolio, and AI meeting intelligence with English + Sinhala transcription. Role-gated Server Actions, encrypted per-user keys, ⌘K command palette.<br><sub>Next.js 16 · React 19 · Drizzle · Neon · Auth.js · Gemini</sub> | [Live](https://log-pup.vercel.app)<br>[Code](https://github.com/DeegayuA/LogPup) |
+| **Solar SCADA & Mini-Grid Platform** | Alta Vision's commercial SCADA, deployed across multiple utility-scale solar farms and mini-grids: real-time inverter telemetry, weather-station IoT, AI-assisted configuration, offline-first at the grid edge.<br><sub>Next.js · TypeScript · OPC UA · GoodWe SEC3000</sub> | [Demo](https://av-scada-demo.netlify.app/) |
+| **PPE Guard** | Per-person safety-gear verdicts from a photo, video or live camera. Runs fully on-device with YOLO26, seven gear types, temporal smoothing, SQLite history. Web app + CLI + HTTP API.<br><sub>Python · Ultralytics · SQLite</sub> | [Code](https://github.com/DeegayuA/PPE-demo) |
+| **CV-Count** | Interactive people counter with YOLO + ByteTrack. Draw lines and zones on a preview, switch YOLOv11/YOLO26 on the fly, auto-detects CUDA and Apple Silicon.<br><sub>Python · YOLO · ByteTrack</sub> | [Code](https://github.com/DeegayuA/CV-Count) |
+| **LifeSight** | AI vision assistant for visually and hearing-impaired users: OCR, voice-first interaction, WCAG 2.2 compliant, browser-first.<br><sub>React · Next.js · Cloud Vision · Web Speech API</sub> | [Live](https://lifesight.vercel.app/web)<br>[Code](https://github.com/DeegayuA/lifesight2) |
+| **NN-Auto-Car** | Neuroevolutionary driving simulator from first principles: hand-written MLP, genetic algorithm, kinematics and ray-cast sensors on real OpenStreetMap roads. No ML framework, no game engine. MSc capstone.<br><sub>JavaScript · OpenStreetMap</sub> | [Report](https://github.com/DeegayuA/NN-Auto-Car_simulator/blob/main/reports/final_report_new_ieee.pdf)<br>[Code](https://github.com/DeegayuA/NN-Auto-Car_simulator) |
+| **AmpereArc Production Floor** | Factory management for BESS battery manufacturing: workflow automation, procurement and GRN, QC gates, traceability and real-time factory analytics.<br><sub>Next.js · TypeScript · Tailwind</sub> | [Live](https://production.amperearc.com/) |
+| **GreenWing** | Quadcopter-based intelligent irrigation: drone imaging, ML, weather inputs and ESP32 valve firmware. Undergraduate research project.<br><sub>IoT · ML · Image processing · ESP32</sub> | [Code](https://github.com/DeegayuA/GreenWing) |
 
-<sub>More: [SnapLearn](https://github.com/DeegayuA/SnapLearn) (Android assignment solver with Gemini + ML Kit) · [Hospital Asset Management](https://github.com/DeegayuA/asset-management-system) (zero-database Next.js) · [Queue Management for IDH](https://github.com/DeegayuA/idh) · [MoodCheer](https://deegayua.github.io/Flowers/) · [all repositories](https://github.com/DeegayuA?tab=repositories)</sub>
+<sub>More: [SnapLearn](https://github.com/DeegayuA/SnapLearn) (Android assignment solver with Gemini + ML Kit) · [Hospital Asset Management](https://github.com/DeegayuA/asset-management-system) (zero-database Next.js) · [Queue Management for IDH](https://github.com/DeegayuA/idh) · [anemia-ai](https://github.com/DeegayuA/anemia-ai) (uncertainty-aware deep learning for non-invasive anaemia screening, MSc) · [MoodCheer](https://deegayua.github.io/Flowers/) · [all repositories](https://github.com/DeegayuA?tab=repositories)</sub>
 
 ## Experience
 
@@ -97,8 +94,6 @@ Reading for a **Master of Data Science & AI** at the University of Moratuwa and 
 - **Autonomous quadcopter-based intelligent irrigation system for enhancing crop care** · Vimansa, Adhikari, Rathnayaka, Dilshan, Attanayake et al. · Faculty of Science, University of Kelaniya, 2024 · [code](https://github.com/DeegayuA/GreenWing)
 - **A cost-effective and adaptable queue management system to increase efficiency in patient queue management** · Adhikari, Gunarathna, Bandara, Gunawardana et al. · Faculty of Science, University of Kelaniya, 2024 · [code](https://github.com/DeegayuA/idh)
 - **Wireless pager system for enhancing emergency communication in hospital environment** · Gunarathna, Adhikari, Bandara, Gunawardana et al. · Faculty of Science, University of Kelaniya, 2024
-- **Uncertainty-aware deep learning for non-invasive anaemia screening** · MSc coursework, University of Moratuwa, 2025 · [code](https://github.com/DeegayuA/anemia-ai)
-- **NN-Auto-Car: neuroevolutionary autonomous driving simulator** · MSc capstone, University of Moratuwa, 2026 · [report](https://github.com/DeegayuA/NN-Auto-Car_simulator/blob/main/reports/final_report_new_ieee.pdf) · [code](https://github.com/DeegayuA/NN-Auto-Car_simulator)
 
 ## Achievements
 
@@ -143,6 +138,6 @@ Reading for a **Master of Data Science & AI** at the University of Moratuwa and 
 
 ## Support
 
-If something here helped you, you can [buy me a coffee](https://buymeacoffee.com/deeghayu).
+If something here helped you:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/deeghayu)
